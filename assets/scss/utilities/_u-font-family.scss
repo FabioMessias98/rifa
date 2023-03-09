@@ -1,0 +1,15 @@
+$utility-name: 'u-font-family';
+
+.#{$utility-name} {
+    &-bebas {
+        font-family: 'Bebas Neue', sans-serif;
+    }
+
+    &-garamond {
+        font-family: 'EB Garamond', sans-serif;
+    }
+
+    &-montserrat {
+        font-family: 'Montserrat', sans-serif;
+    }
+}

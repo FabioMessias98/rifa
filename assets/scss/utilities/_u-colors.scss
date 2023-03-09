@@ -1,0 +1,11 @@
+$utility-name: 'u-color-folk';
+
+.#{$utility-name} {
+    &-primary {
+        color: $color-folk-primary !important;
+    }
+
+    &-white {
+        color: $color-folk-white !important;
+    }
+}
